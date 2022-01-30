@@ -1,5 +1,5 @@
 # Vyavhar 
-  ### LIVE URL - [https://gifted-benz-3ea26f.netlify.app]
+  ### LIVE URL - [https://hardcore-brattain-d7c4ae.netlify.app]
 [![Vyavhar](https://i.postimg.cc/gkRzWckt/Screenshot-2022-01-30-at-13-46-06-Vyavhar.png)](https://postimg.cc/fJzn7NdY)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
