@@ -1,6 +1,6 @@
 # Vyavhar 
   ### LIVE URL - [https://heuristic-ptolemy-799546.netlify.app]
-[![Vyavhar](https://ibb.co/Br0zgVg)
+[![Vyavhar](https://i.postimg.cc/gkRzWckt/Screenshot-2022-01-30-at-13-46-06-Vyavhar.png)](https://postimg.cc/fJzn7NdY)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -20,12 +20,11 @@ install dependencies
 
 ## FOLDER STRUCTURE
 ### API 
-  --- contains backend hosted on heroku having https://vyappar.openode.dev/ as backend
+  --- contains backend hosted on heroku having https://cryptic-coast-01230.herokuapp.com/ as backend
   #### lib -
       ##### mongoose
       ##### helmet
       ##### express
-      ##### Bootstrap
       ##### multer
       ##### nodemon
       ##### axios
@@ -34,5 +33,4 @@ install dependencies
 ### vyavhar-front
   --- congtains front end of my app https://heuristic-galileo-d7f88c.netlify.app 
   
-
 
